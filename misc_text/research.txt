@@ -1,0 +1,221 @@
+Self-Determination Theory
+SDT is an approach to human motivation and personality
+that uses traditional empirical methods while employing an
+organismic metatheory that highlights the importance of
+humans' evolved inner resources for personality development and behavioral self-regulation (Ryan, Kuhl, & Deci,
+1997). Thus, its arena is the investigation of people's
+inherent growth tendencies and innate psychological needs
+that are the basis for their self-motivation and personality
+integration, as well as for the conditions that foster those
+positive processes. Inductively, using the empirical process, we have identified three such needs--the needs for
+competence (Harter, 1978; White, 1963), relatedness
+(Baumeister & Leary, 1995; Reis, 1994), and autonomy
+(deCharms, 1968; Deci, 1975)--that appear to be essential
+for facilitating optimal functioning of the natural propensities for growth and integration, as well as for constructive
+social development and personal well-being.
+This work was supported in part by research Grant MH-53385 from the
+National Institute of Mental Health. We thank all of the members of the
+Human Motivation Research Group at the University of Rochester who
+have contributed to these ideas and research, and to Jennifer LaGuardia,
+Charles Couchman, and Phyllis Joe for their specific help with this article.
+Correspondence concerning this article should be addressed to either
+Richard M. Ryan or Edward L. Deci, Department of Clinical and Social
+Sciences in Psychology, University of Rochester, Rochester, NY 14627.
+Electronic mail may be sent to either ryan@psych.rochester.edu or
+deci@psych.rochester.edu.
+68 January 2000 • American Psychologist
+Copyright 2000 by the American Psychological Association, Inc. 0003-066X/00/$5.00
+Vol. 55, No. 1, 68-78 DOI: 10.1037110003-066X.55.1.68
+Richard M.
+Ryan
+Photo by Joe Gawlowicz,
+University of Rochester
+Much of the research guided by SDT has also examined environmental factors that hinder or undermine selfmotivation, social functioning, and personal well-being.
+Although many specific deleterious effects have been explored, the research suggests that these detriments can be
+most parsimoniously described in terms of thwarting the
+three basic psychological needs. Thus, SDT is concerned
+not only with the specific nature of positive developmental
+tendencies, but it also examines social environments that
+are antagonistic toward these tendencies.
+The empirical methods used in much of the SDT
+research have been in the Baconian tradition, in that social
+contextual variables have been directly manipulated to
+examine their effects on both internal processes and behavioral manifestations. The use of experimental paradigms
+has allowed us to specify the conditions under which people's natural activity and constructiveness will flourish, as
+well as those that promote a lack of self-motivation and
+social integration. In this way, we have used experimental
+methods without accepting the mechanistic or efficient
+causal meta-theories that have typically been associated
+with those methods.
+In this article we review work guided by SDT, addressing its implications for three important outcomes. We
+begin with an examination of intrinsic motivation, the
+prototypic manifestation of the human tendency toward
+learning and creativity, and we consider research specifying conditions that facilitate versus forestall this special
+type of motivation. Second, we present an analysis of
+self-regulation, which concerns how people take in social
+values and extrinsic contingencies and progressively transform them into personal values and self-motivations. In
+that discussion, we outline different forms of internalized
+motivation, addressing their behavioral and experiential
+correlates and the conditions that ale likely to promote
+these different motivations. Third, we focus on studies that
+have directly examined the impact of psychological need
+fulfillment on health and well-being.
+The Nature of Motivation
+Motivation concerns energy, direction, persistence and
+equifinality--all aspects of activation and intention. Motivation has been a central and perennial issue in the field of
+psychology, for it is at the core of biological, cognitive, and
+social regulation. Perhaps more important, in the real
+world, motivation is highly valued because of its consequences: Motivation produces. It is therefore of preeminent
+concern to those in roles such as manager, teacher, religious leader, coach, health care provider, and parent that
+involve mobilizing others to act.
+Although motivation is often treated as a singular
+construct, even superficial reflection suggests that people
+are moved to act by very different types of factors, with
+highly varied experiences and consequences. People can be
+motivated because they value an activity or because there is
+strong external coercion. They can be urged into action by
+an abiding interest or by a bribe. They can behave from a
+sense of personal commitment to excel or from fear of
+being surveilled. These contrasts between cases of having
+internal motivation versus being externally pressured are
+surely familiar to everyone. The issue of whether people
+stand behind a behavior out of their interests and values, or
+do it for reasons external to the self, is a matter of significance in every culture (e.g., Johnson, 1993) and represents
+a basic dimension by which people make sense of their own
+and others' behavior (deCharms, 1968; Heider, 1958; Ryan
+& Connell, 1989).
+Comparisons between people whose motivation is authentic (literally, self-authored or endorsed) and those who
+are merely externally controlled for an action typically
+reveal that the former, relative to the latter, have more
+interest, excitement, and confidence, which in turn is manifest both as enhanced performance, persistence, and creativity (Deci & Ryan, 1991; Sheldon, Ryan, Rawsthorne, &
+Ilardi, 1997) and as heightened vitality (Nix, Ryan, Manly,
+& Deci, 1999), self-esteem (Deci & Ryan, 1995), and
+general well-being (Ryan, Deci, & Grolnick, 1995). This is
+so even when the people have the same level of perceived
+competence or self-efficacy for the activity.
+Because of the functional and experiential differences
+between self-motivation and external regulation, a major
+focus of SDT has been to supply a more differentiated
+approach to motivation, by asking what kind of motivation
+is being exhibited at any given time. By considering the
+perceived forces that move a person to act, SDT has been
+able to identify several distinct types of motivation, each of
+which has specifiable consequences for learning, performance, personal experience, and well-being. Also, by articulating a set of principles concerning how each type of
+motivation is developed and sustained, or forestalled and
+undermined, SDT at once recognizes a positive thrust to
+human nature and provides an account of passivity, alienation, and psychopathology.
+January 2000 • American Psychologist 69
+Edward L.
+Deci
+Photo by Joe Gawlowicz, University of Rochester
+Intrinsic Motivation
+Perhaps no single phenomenon reflects the positive potential of human nature as much as intrinsic motivation, the
+inherent tendency to seek out novelty and challenges, to
+extend and exercise one's capacities, to explore, and to
+learn. Developmentalists acknowledge that from the time
+of birth, children, in their healthiest states, are active,
+inquisitive, curious, and playful, even in the absence of
+specific rewards (e.g., Harter, 1978). The construct of intrinsic motivation describes this natural inclination toward
+assimilation, mastery, spontaneous interest, and exploration that is so essential to cognitive and social development
+and that represents a principal source of enjoyment and
+vitality throughout life (Csikszentmihalyi & Rathunde,
+1993; Ryan, 1995).
+Yet, despite the fact that humans are liberally endowed with intrinsic motivational tendencies, the evidence
+is now clear that the maintenance and enhancement of this
+inherent propensity requires supportive conditions, as it can
+be fairly readily disrupted by various nonsupportive conditions. Thus, our theory of intrinsic motivation does not
+concern what causes intrinsic motivation (which we view
+as an evolved propensity; Ryan et al., 1997); rather, it
+examines the conditions that elicit and sustain, versus subdue and diminish, this innate propensity.
+Cognitive evaluation theory (CET) was presented by
+Deci and Ryan (1985) as a subtheory within SDT that had
+the aim of specifying factors that explain variability in
+intrinsic motivation. CET is framed in terms of social and
+environmental factors that facilitate versus undermine intrinsic motivation, using language that reflects the assumption that intrinsic motivation, being inherent, will be catalyzed when individuals are in conditions that conduce
+toward its expression. In other words, it will flourish if
+circumstances permit. Put in this way, the study of conditions that facilitate versus undermine intrinsic motivation is
+an important first step in understanding sources of both
+alienation and liberation of the positive aspects of human
+nature.
+CET, which focuses on the fundamental needs for
+competence and autonomy, was formulated to integrate
+results from initial laboratory experiments on the effects of
+rewards, feedback, and other external events on intrinsic
+motivation, and was subsequently tested and extended by
+field studies in various settings. The theory argues, first,
+that social-contextual events (e.g., feedback, communications, rewards) that conduce toward feelings of competence
+during action can enhance intrinsic motivation for that
+action. Accordingly, optimal challenges, effectance-prorooting feedback, and freedom from demeaning evaluations
+were all found to facilitate intrinsic motivation. For example, early studies showed that positive performance feedback enhanced intrinsic motivation, whereas negative performance feedback diminished it (Deci, 1975), and research by Vallerand and Reid (1984) showed that these
+effects were mediated by perceived competence.
+CET further specifies, and studies have shown (Fisher,
+1978; Ryan, 1982), that feelings of competence will not
+enhance intrinsic motivation unless accompanied by a
+sense of autonomy or, in attributional terms, by an internal
+perceived locus of causality (deCharms, 1968). Thus, according to CET, people must not only experience competence or efficacy, they must also experience their behavior
+as self-determined for intrinsic motivation to be in evidence. This requires either immediate contextual supports for autonomy and competence or abiding inner resources (Reeve, 1996) that are typically the result of prior
+developmental supports for perceived autonomy and
+competence.
+In fact, most of the research on the effects of environmental events in intrinsic motivation has focused on the
+issue of autonomy versus control rather than that of competence. Research on this issue has been considerably more
+controversial. It began with the repeated demonstration that
+extrinsic rewards can undermine intrinsic motivation. Deci
+(1975) interpreted these results in terms of rewards facilitating a more external perceived locus of causality (i.e.,
+diminished autonomy). Although the issue of reward effects has been hotly debated, a recent, comprehensive
+meta-analysis (Deci, Koestner, & Ryan, 1999) confirmed,
+in spite of claims to the contrary by Eisenberger and
+Cameron (1996), that all expected tangible rewards made
+contingent on task performance do reliably undermine intrinsic motivation.
+Also, research revealed that not only tangible rewards
+but also threats, deadlines, directives, pressured evaluations, and imposed goals diminish intrinsic motivation because, like tangible rewards, they conduce toward an external perceived locus of causality. In contrast, choice,
+acknowledgment of feelings, and opportunities for selfdirection were found to enhance intrinsic motivation because they allow people a greater feeling of autonomy
+(Deci & Ryan, 1985). Field studies have further shown that
+70 January 2000 • American Psychologist
+teachers who are autonomy supportive (in contrast to controlling) catalyze in their students greater intrinsic motivation, curiosity, and desire for challenge (e.g., Deci, Nezlek,
+& Sheinman, 1981; Flink, Boggiano, & Barrett, 1990;
+Ryan & Grolnick, 1986). Students taught with a more
+controlling approach not only lose initiative but learn less
+effectively, especially when learning requires conceptual,
+creative processing (Amabile, 1996; Grolnick & Ryan,
+1987; Utman, 1997). Similarly, studies showed that autonomy-supportive parents, relative to controlling parents,
+have children who are more intrinsically motivated
+(Grolnick, Deci, & Ryan, 1997). Such findings generalized
+to other domains such as sport and music in which supports
+for autonomy and competence by parents and mentors
+incite more intrinsic motivation (e.g., Frederick & Ryan,
+1995).
+Although autonomy and competence supports are
+highly salient for producing variability in intrinsic motivation, a third factor, relatedness, also bears on its expression.
+In infancy, intrinsic motivation is readily observable as
+exploratory behavior and, as suggested by attachment theorists (e.g., Bowlby, 1979), it is more evident when the
+infant is securely attached to a parent. Studies of mothers
+and infants have, indeed, shown that both security and
+maternal autonomy support predict more exploratory behavior in the infants (e.g., Frodi, Bridges, & Grolnick,
+1985). SDT hypothesizes that a similar dynamic occurs in
+interpersonal settings over the life span, with intrinsic
+motivation more likely to flourish in contexts characterized
+by a sense of security and relatedness. For example, Anderson, Manoogian, and Reznick (1976) found that when
+children worked on an interesting task in the presence of an
+adult stranger who ignored them and failed to respond to
+their initiations, a very low level of intrinsic motivation
+resulted, and Ryan and Grolnick (1986) observed lower
+intrinsic motivation in students who experienced their
+teachers as cold and uncaring. Of course, many intrinsically
+motivated behaviors are happily performed in isolation,
+suggesting that proximal relational supports may not be
+necessary for intrinsic motivation, but a secure relational
+base does seem to be important for the expression of
+intrinsic motivation to be in evidence.
+To summarize, the CET framework suggests that social environments can facilitate or forestall intrinsic motivation by supporting versus thwarting people's innate psychological needs. Strong links between intrinsic motivation
+and satisfaction of the needs for autonomy and competence
+have been clearly demonstrated, and some work suggests
+that satisfaction of the need for relatedness, at least in a
+distal sense, may also be important for intrinsic motivation.
+It is critical to remember, however, that people will be
+intrinsically motivated only for activities that hold intrinsic
+interest for them, activities that have the appeal of novelty,
+challenge, or aesthetic value. For activities that do not hold
+such appeal, the principles of CET do not apply, because
+the activities will not be experienced as intrinsically motivated to begin with. To understand the motivation for those
+activities, we need to look more deeply into the nature and
+dynamics of extrinsic motivation.

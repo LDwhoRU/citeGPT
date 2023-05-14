@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Project</title>
+</head>
+<body>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="research_paper" accept=".txt">
+        <input type="file" name="student_report" accept=".txt">
+        <label for="findings">Select No. of Findings:</label>
+        <select id="findings" name="findings">
+            {% for i in numbers %}
+                <option value="{{ i }}">{{ i }}</option>
+            {% endfor %}
+        </select>        
+        <input type="submit" value="Integrate">
+    </form>
+</body>
+</html>

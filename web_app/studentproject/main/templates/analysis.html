@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Analysis</title>
+</head>
+<body>
+    <form method="post">
+        {% csrf_token %}
+        {% for item in analysis_list %}
+            <input type="checkbox" name="findings" value="{{ forloop.counter0 }}">
+            <label>{{ forloop.counter }} ({{ item.relevance }} Relevancy): {{ item.finding }}</label><br>
+        {% endfor %}
+        <input type="submit" value="Rewrite">
+    </form>
+</body>
+</html>
